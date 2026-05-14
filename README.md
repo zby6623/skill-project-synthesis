@@ -1,2 +1,2 @@
 # skill-project-synthesis
-这个skill可以总结一个project里面的对话、文件，并且对每一个版本变动进行更新。
+Synthesize all reachable conversations and uploaded files within the current Claude Project into a structured Markdown knowledge base. Extracts settled conclusions, evolving (formerly contradictory) views, open/undecided directions, important parameters/data/versions, and reusable templates/prompts/methodologies. Cross-verifies fact-claims against authoritative public sources and tags every claim with a verification status. Supports incremental updates with version history when a prior synthesis is supplied. Use this skill whenever the user explicitly invokes it inside a Project.
